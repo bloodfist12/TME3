@@ -1,4 +1,4 @@
-package tme3;//: innerclasses/controller/tme3.Controller.java
+//: innerclasses/controller/tme3.Controller.java
 // The reusable framework for control systems.
 // From 'Thinking in Java, 4th ed.' (c) Bruce Eckel 2005
 // www.BruceEckel.com. See copyright notice in CopyRight.txt.
@@ -13,8 +13,7 @@ package tme3;//: innerclasses/controller/tme3.Controller.java
  *
  */
 
-import tme3.*;
-
+package tme3;
 import java.util.*;
 
 
